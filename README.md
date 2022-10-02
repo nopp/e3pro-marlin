@@ -1,6 +1,12 @@
-# Marlin 3D Printer Firmware 2.0.9.3
+# My Creality Ender 3 Pro Specs
+```
+Motherboard: MKS E3D Robin 1.1 (TCM2209)
+Extruder: Creality Sprite Pro
+LCD: Stock
+Bed: Stock
+```
 
-### Creality Ender3 Pro with BLTouch with MKS Robin E3D 1.1
+# Marlin 3D Printer Firmware 2.0.9.3
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
